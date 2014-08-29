@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Laravel PHP Framework</title>
+	<title>Xeployer - Powered by Docker and Xervmon</title>
 	<style>
 		@import url(//fonts.googleapis.com/css?family=Lato:700);
 
@@ -37,7 +37,7 @@
 	<div class="welcome">
 		<a href="http://xervmon.com" title="Sponsored By Xervmon"><img src="https://www.xervmon.com/wp-content/uploads/2014/08/xervmon_2.png"
 			alt="Sponsored By Xervmon"></a>
-		<h1>You have arrived.</h1>
+		<h1>Xeployer has arrived</h1>
 	</div>
 </body>
 </html>
