@@ -5,6 +5,8 @@
 	<title>Xeployer - Powered by Docker and Xervmon</title>
 	<style>
 		@import url(//fonts.googleapis.com/css?family=Lato:700);
+		@import url(//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css);
+        
 
 		body {
 			margin:0;
