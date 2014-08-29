@@ -11,12 +11,8 @@
 |
 */
 
-/*Route::get('/', function()
+Route::get('/', function()
 {
-	return View::make('hello');
-});*/
+	return View::make('index');
+});
 
-Route::get('/', array(
-        'as' => 'indexDashboard',
-        'uses' => 'MrJuliuss\Syntara\Controllers\DashboardController@getIndex')
-    );
