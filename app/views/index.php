@@ -40,7 +40,7 @@
 		<a href="http://xervmon.com" title="Sponsored By Xervmon"><img src="https://www.xervmon.com/wp-content/uploads/2014/08/xervmon_2.png"
 			alt="Sponsored By Xervmon"></a>
 		<h1>Xeployer has arrived</h1>
-		<button class="btn btn-block btn-large btn-primary" style="margin-top: 15px;">{{ trans('syntara::all.signin') }}</button>
+		<button class="btn btn-block btn-large btn-primary" style="margin-top: 15px;">{{ trans('login') }}</button>
 	</div>
 </body>
 </html>
