@@ -1,5 +1,6 @@
 <?php
 
 return array(
-	"login" => 'Login'
+	"login" => 'Login',
+	'register' => 'Register'
 );
